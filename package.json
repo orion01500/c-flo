@@ -32,7 +32,7 @@
     "mocha": "^4.0.0"
   },
   "dependencies": {
-    "coffee-script": "^1.10.0",
+    "coffee-script": "^1.12.8",
     "fbp-protocol-healthcheck": "^1.0.0",
     "metar": "^1.0.0",
     "metar-taf": "0.0.2",
